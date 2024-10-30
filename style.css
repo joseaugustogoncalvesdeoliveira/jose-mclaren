@@ -5,7 +5,7 @@ font-size: 130%;
 border-color: black;
 border-left: 45px;
 border-style: double;
-padding-left: 100%;
+padding-left: 30%;
 }
 
 header{font-size: 150%;
@@ -15,7 +15,7 @@ margin-right: 30%;
 border-color: blue;
 border-left: 30px;
 border-style: groove;
-padding-left: 100%;
+padding-left: 30%;
 }
 
 footer{background-color: gold;
@@ -25,5 +25,5 @@ font-size: 130%;
 border-color: rgb(250, 0, 0);
 border-left: 45px;
 border-style: groove;
-padding-left: 100%;
+padding-left: 30%;
 }
